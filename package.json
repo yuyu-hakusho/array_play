@@ -1,0 +1,17 @@
+{
+  "name": "js-arrays",
+  "version": "1.0.0",
+  "description": "JS Array exercises",
+  "main": "README.md",
+  "scripts": {
+    "test": "jest",
+    "test-1": "jest 1.spec.js",
+    "test-2": "jest 2.spec.js",
+    "test-3": "jest 3.spec.js"
+  },
+  "author": "Kyle Coberly",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.5"
+  }
+}
